@@ -10,7 +10,7 @@ Who is Himel Atik?
 ## 🔥 About Me  
 💻 Passionate about ethical hacking, cybersecurity education, web security, cloud security and red teaming.  
 🎯 Helping individuals and businesses **secure their digital assets**.  
-📚 Teaching **Bug Bounty Hunting, CEH, CompTIA A+, Network+, Security+**.  
+📚 Teaching **Bug Bounty Hunting, CEH Practical Preparation, Pentesting For Professional, Red Team Professionals, SOC for Red Team, Mobile App Pentesting, Cloud Pentesting**.  
 ⚡ Focused on **Web App Security, Malware Analysis, and Penetration Testing**.  
 
 
